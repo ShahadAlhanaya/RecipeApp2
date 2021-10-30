@@ -5,6 +5,7 @@
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.23072916666666668" />
         <entry key="app/src/main/res/layout/activity_recipes.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/recipe_card.xml" value="0.24479166666666666" />
         <entry key="app/src/main/res/layout/recipe_item.xml" value="0.24479166666666666" />
       </map>
     </option>
